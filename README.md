@@ -62,10 +62,10 @@ Aplikasi ini menggunakan algoritma **AES-256-CTR** (*Advanced Encryption Standar
 ## 📷 Screenshots
 
 ### Tampilan Dashboard
-![Dashboard Aplikasi Inventory]([https://i.ibb.co/XyZaBc/dashboard.png](https://i.ibb.co.com/99JMS190/ss-dekripsi.png)) 
+![Dashboard Aplikasi Inventory](https://i.ibb.co.com/99JMS190/ss-dekripsi.png)
 
 ### Data Terenkripsi di Database
-![Data Harga Beli Terenkripsi]([https://i.ibb.co/1JkLzT/enkripsi-db.png](https://i.ibb.co.com/8LRGSfSv/ss-enkripsi.png))
+![Data Harga Beli Terenkripsi](https://i.ibb.co.com/8LRGSfSv/ss-enkripsi.png)
 ## 📝 Credits
 
 * **Nama:** [MUHAMMAD ALIF RIDO]
