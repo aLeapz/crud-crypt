@@ -65,7 +65,7 @@ Aplikasi ini menggunakan algoritma **AES-256-CTR** (*Advanced Encryption Standar
 ### Data harga_beli Terenkripsi di Database
 ![Data Harga Beli Terenkripsi](https://i.ibb.co.com/8LRGSfSv/ss-enkripsi.png)
 
-### Data harga_beli Terdekripsi dan Terbaca User
+### Data harga_beli Terdekripsi di Tampilan Dashboard
 ![Dashboard Aplikasi Inventory](https://i.ibb.co.com/99JMS190/ss-dekripsi.png)
 
 ## Credits
