@@ -59,14 +59,14 @@ Aplikasi ini menggunakan algoritma **AES-256-CTR** (*Advanced Encryption Standar
     * Masukkan folder CRUD ke folder xampp/htdocs
     * Buka browser dan akses `http://localhost/folder-proyek-anda`.
 
-## 📷 Screenshots
+## Screenshots
 
 ### Tampilan Dashboard
 ![Dashboard Aplikasi Inventory](https://i.ibb.co.com/99JMS190/ss-dekripsi.png)
 
 ### Data harga_beli Terenkripsi di Database
 ![Data Harga Beli Terenkripsi](https://i.ibb.co.com/8LRGSfSv/ss-enkripsi.png)
-## 📝 Credits
+## Credits
 
 * **Nama:** [MUHAMMAD ALIF RIDO]
 * **NIM:** [230401010006]
