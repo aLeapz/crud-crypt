@@ -60,7 +60,8 @@ Aplikasi ini menggunakan algoritma **AES-256-CTR** (*Advanced Encryption Standar
     * Buka browser dan akses `http://localhost/CRUD`.
     * Kemudian Akses ke Bagian Tables
     * di bagian bawah ada Update untuk Menambah barang
-    * di bagian tabel ada Edit | Pakai (mengurangi stok barang) | Tambah(menambah stok barang) | Hapus (menghapus barang)
+    * di bagian tabel ada Edit
+       * | Pakai (mengurangi stok barang) | Tambah(menambah stok barang) | Hapus (menghapus barang)
 
 ## Screenshots
 
