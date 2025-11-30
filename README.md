@@ -61,7 +61,7 @@ Aplikasi ini menggunakan algoritma **AES-256-CTR** (*Advanced Encryption Standar
     * Kemudian Akses ke Bagian Tables
     * di bagian bawah ada Update untuk Menambah barang
     * di bagian tabel ada Edit
-       * | Pakai (mengurangi stok barang) | Tambah(menambah stok barang) | Hapus (menghapus barang)
+       *  Pakai (mengurangi stok barang) | Tambah(menambah stok barang) | Hapus (menghapus barang)
 
 ## Screenshots
 
