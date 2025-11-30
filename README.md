@@ -58,7 +58,7 @@ Aplikasi ini menggunakan algoritma **AES-256-CTR** (*Advanced Encryption Standar
 4.  **Jalankan Aplikasi**
     * Pindahkan folder CRUD dari repository ini ke folder `xampp/htdocs`.
     * Buka browser dan akses `http://localhost/CRUD`.
-    * Kemudian Akses ke Bagian Tables.
+    * Kemudian Akses ke Bagian Tables untuk Mengolah Data.
 
 ## Screenshots Implementasi Kriptografi
 ### Data harga_beli Terenkripsi di Database
