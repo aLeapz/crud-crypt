@@ -14,7 +14,6 @@ Dibuat untuk memenuhi Tugas Mata Kuliah Kriptografi dan Steganografi IF502.
     * Fitur `Tambah` (Menambahkan stok barang).
     * FItur `Hapus` (Menghapus barang).
     * Otomatis update status barang (`Available` / `Not Available`) berdasarkan jumlah stok.
-* **Generate Kode Barang:** Input kode barang manual atau otomatis.
 * **Keamanan Data (Kriptografi):** Enkripsi kolom sensitif pada database.
 
 ## Implementasi Kriptografi
