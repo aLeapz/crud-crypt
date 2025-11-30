@@ -46,7 +46,7 @@ Aplikasi ini menggunakan algoritma **AES-256-CTR** (*Advanced Encryption Standar
     * Buat database baru bernama `db_inventory`.
     * Import file `db_inventory.sql` yang ada di folder CRUD/db.
 
-3.  **Konfigurasi Koneksi**
+3.  **Memastikan Konfigurasi Koneksi**
     * Buka file `konek.php`.
     * Sesuaikan konfigurasi database:
         ```php
@@ -58,10 +58,12 @@ Aplikasi ini menggunakan algoritma **AES-256-CTR** (*Advanced Encryption Standar
 4.  **Jalankan Aplikasi**
     * Masukkan folder CRUD ke folder xampp/htdocs
     * Buka browser dan akses `http://localhost/CRUD`.
-    * Kemudian Akses ke Bagian Tables
-    * di bagian bawah ada Update untuk Menambah barang
-    * di bagian tabel ada Edit
-       *  Pakai (mengurangi stok barang) | Tambah(menambah stok barang) | Hapus (menghapus barang)
+    * Kemudian Akses ke Bagian Tables.
+    * di bagian bawah ada Update untuk Menambah barang.
+    * di bagian tabel ada Edit.
+       *  Pakai (mengurangi stok barang).
+       *  Tambah (menambah stok barang).
+       *  Hapus (menghapus barang).
 
 ## Screenshots
 
