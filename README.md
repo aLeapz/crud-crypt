@@ -9,8 +9,8 @@ Dibuat untuk memenuhi Tugas Kriptografi dan Steganografi IF502.
 
 * **CRUD Barang:** Menambah, Melihat, Mengubah (Stok), dan Menghapus data barang.
 * **Manajemen Stok:**
-    * Fitur "Pakai Barang" (Mengurangi stok).
-    * Fitur "Tambah Stok" (Menambah stok).
+    * Fitur "Pakai" (Mengurangi stok).
+    * Fitur "Tambah" (Menambah stok).
     * Otomatis update status barang (`Available` / `Not Available`) berdasarkan jumlah stok.
 * **Generate Kode Barang:** Input kode barang manual atau otomatis.
 * **Keamanan Data (Kriptografi):** Enkripsi kolom sensitif pada database.
@@ -59,11 +59,6 @@ Aplikasi ini menggunakan algoritma **AES-256-CTR** (*Advanced Encryption Standar
     * Masukkan folder CRUD ke folder xampp/htdocs
     * Buka browser dan akses `http://localhost/CRUD`.
     * Kemudian Akses ke Bagian Tables.
-    * di bagian bawah ada Update untuk Menambah barang.
-    * di bagian tabel ada Edit.
-       *  Pakai (mengurangi stok barang).
-       *  Tambah (menambah stok barang).
-       *  Hapus (menghapus barang).
 
 ## Screenshots
 
