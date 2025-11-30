@@ -61,7 +61,6 @@ Aplikasi ini menggunakan algoritma **AES-256-CTR** (*Advanced Encryption Standar
     * Kemudian Akses ke Bagian Tables.
 
 ## Screenshots Implementasi Kriptografi
-
 ### Data harga_beli Terenkripsi di Database
 ![Data Harga Beli Terenkripsi](https://i.ibb.co.com/8LRGSfSv/ss-enkripsi.png)
 
