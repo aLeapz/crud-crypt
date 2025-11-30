@@ -7,7 +7,7 @@ Dibuat untuk memenuhi Tugas Mata Kuliah Kriptografi dan Steganografi IF502.
 
 ## Fitur Utama
 
-* **CRUD Barang:** Menambah, Melihat, Mengubah (Stok), dan Menghapus data barang.
+* **CRUD Barang:** Update/Menambah, Melihat, Mengubah (Stok), dan Menghapus data barang.
 * **Manajemen Stok:**
     * Fitur `Pakai` (Mengurangi stok).
     * Fitur `Tambah` (Menambah stok).
