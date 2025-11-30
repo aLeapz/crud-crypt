@@ -3,7 +3,7 @@ Inventory Management System dengan Kriptografi Stream XOR
 
 Aplikasi berbasis web sederhana untuk manajemen stok barang (Inventory), dikembangkan menggunakan **PHP Native** dan **Bootstrap**. Proyek ini menerapkan keamanan data menggunakan algoritma kriptografi simetris **AES-256-CTR** (Stream Cipher) untuk mengenkripsi harga beli barang.
 
-Dibuat untuk memenuhi Tugas Kriptografi dan Steganografi.
+Dibuat untuk memenuhi Tugas Kriptografi dan Steganografi IF502.
 
 ## Fitur Utama
 
@@ -77,5 +77,6 @@ Aplikasi ini menggunakan algoritma **AES-256-CTR** (*Advanced Encryption Standar
 * **Nama:** [MUHAMMAD ALIF RIDO]
 * **NIM:** [230401010006]
 * **Kampus:** [Universitas Siber Asia]
+* **Dosen Pengampu Mata Kuliah :** [Alun Sujjada, S.Kom., M.T]
 
 ---
