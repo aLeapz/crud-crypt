@@ -44,7 +44,7 @@ Aplikasi ini menggunakan algoritma **AES-256-CTR** (*Advanced Encryption Standar
     * Buka XAMPP Control Panel, nyalakan Apache dan MySQL.
     * Buka `phpMyAdmin` (http://localhost/phpmyadmin).
     * Buat database baru bernama `db_inventory`.
-    * Import file `db_inventory.sql` yang ada di folder CRUD/db.
+    * Import file `db_inventory.sql` yang ada di folder `CRUD/db`.
 
 3.  **Memastikan Konfigurasi Koneksi**
     * Buka file `konek.php`.
@@ -56,7 +56,7 @@ Aplikasi ini menggunakan algoritma **AES-256-CTR** (*Advanced Encryption Standar
         $db_name = "db_inventory";
         ```
 4.  **Jalankan Aplikasi**
-    * Pindahkan folder CRUD dari repository ini ke folder xampp/htdocs
+    * Pindahkan folder CRUD dari repository ini ke folder `xampp/htdocs`.
     * Buka browser dan akses `http://localhost/CRUD`.
     * Kemudian Akses ke Bagian Tables.
 
