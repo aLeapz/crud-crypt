@@ -1,7 +1,7 @@
 # crud-crypt
 Inventory Management System dengan Kriptografi Stream XOR
 
-Aplikasi berbasis web sederhana untuk manajemen stok barang (Inventory), dikembangkan menggunakan **PHP Native** dan **Bootstrap**. Proyek ini menerapkan keamanan data menggunakan algoritma kriptografi simetris **AES-256-CTR** (Stream Cipher) untuk mengenkripsi harga beli barang.
+Aplikasi berbasis web sederhana untuk manajemen stok barang (Inventory). Proyek ini menerapkan keamanan data menggunakan algoritma kriptografi simetris **AES-256-CTR** (Stream Cipher) untuk mengenkripsi harga beli barang.
 
 Dibuat untuk memenuhi Tugas Kriptografi dan Steganografi IF502.
 
