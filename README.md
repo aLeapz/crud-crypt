@@ -57,7 +57,7 @@ Aplikasi ini menggunakan algoritma **AES-256-CTR** (*Advanced Encryption Standar
         ```
 4.  **Jalankan Aplikasi**
     * Masukkan folder CRUD ke folder xampp/htdocs
-    * Buka browser dan akses `http://localhost/folder-proyek-anda`.
+    * Buka browser dan akses `http://localhost/CRUD`.
 
 ## Screenshots
 
