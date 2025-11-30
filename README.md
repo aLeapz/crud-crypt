@@ -74,9 +74,9 @@ Aplikasi ini menggunakan algoritma **AES-256-CTR** (*Advanced Encryption Standar
 ![Data Harga Beli Terenkripsi](https://i.ibb.co.com/8LRGSfSv/ss-enkripsi.png)
 ## Credits
 
-* **Nama:** [MUHAMMAD ALIF RIDO]
-* **NIM:** [230401010006]
-* **Kampus:** [Universitas Siber Asia]
-* **Dosen Pengampu Mata Kuliah :** [Alun Sujjada, S.Kom., M.T]
-
+* **Nama:** MUHAMMAD ALIF RIDO
+* **NIM:** 230401010006
+* **Kampus:** Universitas Siber Asia
+* **Dosen Pengampu Mata Kuliah :** Alun Sujjada, S.Kom., M.T
+  
 ---
